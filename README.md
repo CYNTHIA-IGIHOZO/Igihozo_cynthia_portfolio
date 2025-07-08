@@ -15,7 +15,7 @@ I enjoy exploring data, solving real-world problems, and continuously learning n
 
 ---
 
-## 🛠 Skills & Tools
+##  Skills & Tools
 
 **Languages & Queries:** Python, SQL  
 **Data Tools:** Excel, Google Sheets, Power BI  
@@ -27,12 +27,14 @@ I enjoy exploring data, solving real-world problems, and continuously learning n
 
 ##  Featured Projects
 
-###  [Product Web Scraping – Chocolate.uk.co](#)
+###  [Product Web Scraping](https://github.com/CYNTHIA-IGIHOZO/Scrape_Chocolate_Products_Project)
 - Used Python to scrape product data from chocolate.uk.co
 - Cleaned and structured data for analysis
+- [chocolate.co.uk](https://drive.google.com/file/d/1rt3vXobc-__rRcwOFjiOPsOD_6PjmAai/view?usp=sharing)
 
-###  [Aircrash Analysis 1908–2023](#)
+###  [Aircrash Analysis 1908–2023](https://github.com/CYNTHIA-IGIHOZO/aircrashes)
 - Analyzed global air crash data using Excel and visualized key trends across decades
+- [Aircrash](https://drive.google.com/file/d/1fv6PCOgCLWMXh6JZalzyfnGsdjmUpEFU/view?usp=sharing)
 
 > *Click on each project title to view full reports, dashboards, or notebooks (coming soon)*
 
@@ -40,7 +42,7 @@ I enjoy exploring data, solving real-world problems, and continuously learning n
 
 ## Resume
 
-👉 [View My Resume](https://drive.google.com/file/d/1IPBWz9Mp_gw79V_nlXdS7IMRHxqd2h0Q/view?usp=sharing)(#) – Available in PDF
+👉 [View My Resume](https://drive.google.com/file/d/1IPBWz9Mp_gw79V_nlXdS7IMRHxqd2h0Q/view?usp=sharing) – Available in PDF
 
 ---
 
